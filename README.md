@@ -16,9 +16,9 @@ Several analytical approaches were utilized to aid investors to quickly narrow d
 ● What Zip codes have the lowest median list price but the highest return year over year?
 
 ## Data
-● RDC_Inventory_Core_Metrics_Zip_History
+● RDC_Inventory_Core_Metrics_Zip_History - The data set contained 2,681,926 rows and 40 columns of data which included information on month_date_yyyymm, postal_code, zip_name, median_listing_price, active_listing_, median_days_on_market, new_listing_count, price_increased_count, price_reduced_count, pending_listing_count, median_listing_price_per_square_foot, median_square_feet, average_listing_price, total_listing_count, pending_ratio, and a quality_flag to indicate values that are outside their typical range. All numerical columns also had corresponding columns that contained the % to prior month, and % to the prior year. 
 
-● USZipcodes_compressed
+● USZipcodes_compressed - shape file that contained multippolygon data for every zip code in the united states.
 
 ## Tools
 The data was analyzed using Python and the following libraries:
