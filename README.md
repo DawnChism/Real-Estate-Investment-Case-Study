@@ -48,7 +48,7 @@ The data was analyzed using Python and the following libraries:
 ● warnings: to handle warnings
 
 ## Storyboard
-Storyboard visualizations were created in Tableau Public and may be viewed in the attached [Tableau Storyboard]([https://public.tableau.com/app/profile/dawn.chism/viz/RockbusterStealth_16999951784910/CustomerLocations](https://public.tableau.com/app/profile/dawn.chism/viz/RealEstateInvestmentCaseStudy_17104345666230/RealEstatePriceAnalysis#1).
+Storyboard visualizations were created in Tableau Public and may be viewed in the attached [Tableau Storyboard](https://public.tableau.com/app/profile/dawn.chism/viz/RealEstateInvestmentCaseStudy_17104345666230/RealEstatePriceAnalysis#1).
 
 ## Folders
 The project files are divided between the following folders:
