@@ -4,7 +4,7 @@ I used Python to wrangle and analyze several datasets for my real estate investm
 ## Objective
 ![image](https://github.com/DawnChism/Real-Estate-Investment-Case-Study/blob/main/Gold%20White%20Modern%20Professional%20Luxury%20Real%20Estate%20Logo-1.png)
 
-Real estate investors are interested in purchasing homes that will maximize the return on their invesment.
+Real estate investors are interested in purchasing homes that will maximize the return on their investment.
 
 This case study looks at the median home listing price across the United States by zip code.
 
@@ -18,7 +18,7 @@ Several analytical approaches were utilized to aid investors to quickly narrow d
 ## Data
 ● RDC_Inventory_Core_Metrics_Zip_History - The data set contained 2,681,926 rows and 40 columns of data which included information on month_date_yyyymm, postal_code, zip_name, median_listing_price, active_listing_, median_days_on_market, new_listing_count, price_increased_count, price_reduced_count, pending_listing_count, median_listing_price_per_square_foot, median_square_feet, average_listing_price, total_listing_count, pending_ratio, and a quality_flag to indicate values that are outside their typical range. All numerical columns also had corresponding columns that contained the % to prior month, and % to the prior year. 
 
-● USZipcodes_compressed - shape file that contained multippolygon data for every zip code in the united states.
+● USZipcodes_compressed - shape file that contained multi-polygon data for every zip code in the united states.
 
 ## Tools
 The data was analyzed using Python and the following libraries:
