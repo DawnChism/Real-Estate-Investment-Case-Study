@@ -43,8 +43,6 @@ The data was analyzed using Python and the following libraries:
 
 ● pylab: for data visualizations
 
-● statsmodels.api: .api imports the public access version of statsmodels
-
 ● warnings: to handle warnings
 
 ## Tableau Story
