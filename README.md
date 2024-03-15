@@ -1,5 +1,5 @@
 # Real-Estate-Investment-Case-Study
-I used Python to wrangle and analyze several datasets for my real estate investment case study. I then created a Tableau Story Board that communicates my analysis process and my results.
+I used Python to wrangle and analyze several datasets for my real estate investment case study. I then created a Tableau Story that communicates my analysis process and my results.
 
 ## Objective
 ![image](https://github.com/DawnChism/Real-Estate-Investment-Case-Study/blob/main/Gold%20White%20Modern%20Professional%20Luxury%20Real%20Estate%20Logo-1.png)
@@ -47,8 +47,8 @@ The data was analyzed using Python and the following libraries:
 
 ● warnings: to handle warnings
 
-## Storyboard
-Storyboard visualizations were created in Tableau Public and may be viewed in the attached [Tableau Storyboard](https://public.tableau.com/app/profile/dawn.chism/viz/RealEstateInvestmentCaseStudy_17104345666230/RealEstatePriceAnalysis#1).
+## Tableau Story
+Tableau Story was created in Tableau Public and may be viewed in the attached [Tableau Storyboard](https://public.tableau.com/app/profile/dawn.chism/viz/RealEstateInvestmentCaseStudy_17104345666230/RealEstatePriceAnalysis#1).
 
 ## Folders
 The project files are divided between the following folders:
