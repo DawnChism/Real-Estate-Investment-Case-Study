@@ -58,4 +58,5 @@ The project files are divided between the following folders:
 
 ## Resources
 ● https://www.realtor.com/research/data/
+
 ● https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html
